@@ -9,7 +9,7 @@ var age = 33;
 //Ewa ma 33 lata
 //niepelnoletni mezczyzna
 
-if (age == 30 && name == "Ewa")
+if (age == 33 && name == "Ewa")
 {
     Console.WriteLine("Ewa ma 33 lata");
 }
